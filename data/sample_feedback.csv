@@ -1,0 +1,13 @@
+customer_id,date,source,product,feedback
+C001,2026-10-01,Review,CloudDesk,"The dashboard is useful but loading reports takes too long."
+C002,2026-10-02,Email,CloudDesk,"I want a simple way to invite my whole team. The current process is confusing."
+C003,2026-10-03,Survey,CloudDesk,"Pricing is fair and support replied quickly. I would recommend it."
+C004,2026-10-04,Review,CloudDesk,"We need an integration with Google Sheets to avoid manual exports."
+C005,2026-10-05,Support,CloudDesk,"I am considering cancelling because onboarding took too much time."
+C006,2026-10-06,Survey,CloudDesk,"Can you add weekly email summaries? That would save me checking the dashboard."
+C007,2026-10-07,Review,CloudDesk,"The mobile layout is hard to use when I am away from my laptop."
+C008,2026-10-08,Email,CloudDesk,"We are evaluating alternatives. We need better role-based access for our team."
+C009,2026-10-09,Survey,CloudDesk,"I like the product, but I did not understand the setup steps."
+C010,2026-10-10,Support,CloudDesk,"A quick alert when a task is overdue would be extremely helpful."
+C011,2026-10-11,Review,CloudDesk,"Customer service was excellent. My issue was solved in one day."
+C012,2026-10-12,Survey,CloudDesk,"We would upgrade if there was a monthly plan for small teams."
